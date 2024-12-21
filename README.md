@@ -29,7 +29,6 @@ This repository contains TI-Basic program codes, which can be used on TI-Basic c
 
 # Using your programs:
 <ol>
-  <li>Ensure that your calculator is set to DEGREE MODE.</li>
   <li>Once you’ve uploaded your programs to the calculator, select the prgm menu. Ensure that the programs appear as they are labeled on your computer.</li>
     <ul><li>If you are using a TI-84 Plus CE Python Edition, select TI-Basic.</li></ul>
   <li>You can look at the code by scrolling right to the “EDIT” page and selecting one of the programs.</li>
