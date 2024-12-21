@@ -16,7 +16,7 @@ This repository contains TI-Basic program codes, which can be used on TI-Basic c
       <li>If you are using a TI-84 Plus CE or a recent TI-84 Plus, you will download this application: <link> https://education.ti.com/en/products/computer-software/ti-connect-ce-sw. I recommend that you download this one anyways, as it allows you to see and edit the code. You can find the guidebook for the application linked here: <link> https://education.ti.com/html/eguides/connectivity/TI-Connect-CE/EN/Content/EG_Splash_Page/TI-Connect_CE_SW_84.HTML</li>
       <li>If you are using a TI-83 or older TI-84 Plus, you will download this application: <link> https://education.ti.com/en/products/computer-software/ti-connect-sw </li>
     </ul>
-  <li>Save the .8xp files from this repository to your computer. They should appear as .8xp files. Ensure they are accessible.</li>
+  <li>Save the .8xp files from this repository to your computer. Make sure you are downloading from the correct folder, according to the calculator you use, otherwise you will have syntax errors. Ensure they are accessible.</li>
   <li>Launch the TI-Connect Software and plug your calculator into your computer. Make sure your calculator is turned on.</li>
     <ul><li>On the TI-Connect CE application, you can open the .8xp files from the last option in the left sidebar menu. You can also edit and create new programs here, using the functions provided in the left dropdown menu (it should look like your calculator, and is very easy to follow).</li></ul>
   <li>Send the programs to your calculator.</li>
