@@ -33,7 +33,7 @@ This repository contains TI-Basic program codes, which can be used on TI-Basic c
     <ul><li>If you are using a TI-84 Plus CE Python Edition, select TI-Basic.</li></ul>
   <li>You can look at the code by scrolling right to the “EDIT” page and selecting one of the programs.</li>
   <li>Select a program from the EXEC page to use it.</li>
-  <li>Press “enter” to initiate the program after selecting it. This should lead you to a variable prompt (I=?_).</li>
+  <li>Press “enter” to initiate the program after selecting it. This should lead you to a variable prompt (I=?_) or continuation prompt.</li>
   <li>Enter your variables, and press enter after writing each variable. You cannot change the variable after entering it.</li>
   <ul>
     <li>If you mistype a variable, you can quit the program by going to 2nd 🡪 quit, and the program will cancel.</li>
