@@ -1,4 +1,4 @@
-This repository contains TI-Basic program codes, which can be used on TI-Basic compatible calculators. Most of these are intended to make calculators such as the TI-84 compatible with vector operations that it usually is not able to execute, as well as perform algorithmic steps for complicated engineering mechanics problems. These can also be used to rapidly solve equations and save data. These programs are only compatible with the following calculators: 
+This repository contains TI-Basic program codes, which can be used on TI-Basic compatible calculators. Most of these are intended to make calculators such as the TI-84 compatible with vector operations that it usually is not able to execute, as well as perform algorithmic steps for complicated engineering mechanics problems. These can also be used to rapidly solve equations and save data. These programs have been tested with the following calculators: 
 <ul>
   <li>TI-84 PLUS</li>
   <li>TI-84 PLUS CE</li>
